@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "Fikih Aldiansyah — IT Support & Web Developer",
     description:
       "Mahasiswa Informatika berfokus pada IT support dan pengembangan web dengan pengalaman di React.js, Node.js, serta jaringan Cisco CCNA.",
-    url: "https://fikihaldiansyah.dev",
+    url: "https://fikihaldiansyah.vercel.app/",
     siteName: "Fikih Aldiansyah",
     locale: "id_ID",
     type: "website",

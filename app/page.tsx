@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import {
-  MessageCircle,
   Mail,
   Menu,
   X,
@@ -173,12 +172,6 @@ export default function Home() {
         {/* Social buttons */}
         <div className="relative mt-6 grid grid-cols-2 sm:flex sm:flex-wrap items-center justify-center gap-3">
           {[
-            {
-              label: "WhatsApp",
-              href: "https://wa.me/6285715874267",
-              icon: <MessageCircle size={16} />,
-              color: "text-green-400",
-            },
             {
               label: "Email",
               href: "mailto:fikihaldiansyah28@gmail.com",
